@@ -1,0 +1,17 @@
+The following provides a list of file modifications within the atlassian-jira directory.
+
+Modified files: 
+	atlassian-jira/WEB-INF/web.xml
+	conf/server.xml
+	jre/lib/security/cacerts
+	conf/web.xml
+Removed files:
+	(none)
+Added files:
+	atlassian-jira/WEB-INF/web.xml.bak
+	conf/server.xml.bak
+	conf/server.xml.bak.2
+	conf/web.xml.bak.2
+	conf/web.xml.bak
+	lib/mysql-connector-java-5.1.45-bin.jar
+	jira.jks

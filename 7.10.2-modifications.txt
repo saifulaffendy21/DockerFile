@@ -1,0 +1,14 @@
+The following provides a list of file modifications within the atlassian-jira directory.
+
+Modified files: 
+	atlassian-jira/WEB-INF/web.xml
+	conf/server.xml
+	jre/lib/security/cacerts
+	conf/web.xml
+Removed files:
+	(none)
+Added files:
+	atlassian-jira/WEB-INF/web.xml.bak
+	jre/lib/security/cacerts.bak
+	conf/server.xml.bak
+	jira.jks
